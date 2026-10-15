@@ -47,3 +47,12 @@ div.highlight pre,
 div.highlight pre span {
   color: inherit;
 }
+
+main strong {
+  font-weight: 800;
+  color: #fff;
+}
+
+main em {
+  color: #fff;
+}
